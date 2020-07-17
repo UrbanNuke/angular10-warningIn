@@ -51,6 +51,7 @@
             ],
             "styles": [
               "src/styles.scss",
+              "node_modules/monaco-editor/min/vs/editor/editor.main.css",
               "./libs/jexcel/jexcel.css"
             ],
             "scripts": []
@@ -115,8 +116,6 @@
               "src/assets"
             ],
             "styles": [
-              "./libs/jexcel/jexcel.css",
-              "node_modules/monaco-editor/min/vs/editor/editor.main.css",
               "src/styles.scss"
             ],
             "scripts": []
